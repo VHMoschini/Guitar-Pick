@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+
+# Local env files
+.env
+.env.*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Mac/Linux hidden files
+*.swp
+*.swo
+
+# Optional lockfiles (deixe só o que for usar)
+package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
