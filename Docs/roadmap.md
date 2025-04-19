@@ -13,8 +13,8 @@
 **Objetivo:** Rodar o projeto local com uma página funcional e capturar áudio via navegador.
 
 ### Tarefas:
-- [x] Setup do projeto (React + Vite + Tailwind) – **0.5h** -> 1h
-- [ ] Estrutura básica de layout – **0.5h**
+- [x] Setup do projeto (React + Vite + Tailwind) – **0.5h** -> 1:00
+- [x] Estrutura básica de layout – **0.5h** -> 0:55:46
 - [ ] Componente `DesafioPage` com desafio hardcoded – **0.5h**
 - [ ] Componente `Gravador` com Web Audio API – **1h**
 - [ ] Visualização simples de pitch (nota detectada) – **0.5h**
@@ -25,7 +25,11 @@
 ## @log
 
 ```
-- [19-04-2025 1:28] Inicio Real do projeto com o setup da stack, fiz varios testes com o NeoVim mas senti que não seria uma boa ideia para o projeto então mantive o visual studio code que já estou familiarizado. Acabei usando até mais de uma hora nos testes mas para manter realista vou deixar logado apenas o utilizado para o setup da ferramenta final mesmo.
+[19-04-2025 13:22] Estrutura básica de layout -> Fiz um layout no PS para guiar a construção do primeiro visual hardcoded para termos base do que devemos construir.
+```
+
+```
+[19-04-2025 1:28] Setup do projeto (React + Vite + Tailwind) -> Inicio Real do projeto com o setup da stack, fiz varios testes com o NeoVim mas senti que não seria uma boa ideia para o projeto então mantive o visual studio code que já estou familiarizado. Acabei usando até mais de uma hora nos testes mas para manter realista vou deixar logado apenas o utilizado para o setup da ferramenta final mesmo.
 ```
 
 
