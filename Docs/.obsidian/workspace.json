@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backlog.md",
+                "file": "roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "backlog"
+              "title": "roadmap"
             }
           }
         ]
@@ -170,7 +170,7 @@
   },
   "active": "b2bf53ab804c44a7",
   "lastOpenFiles": [
-    "roadmap.md",
-    "backlog.md"
+    "backlog.md",
+    "roadmap.md"
   ]
 }

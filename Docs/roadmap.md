@@ -13,7 +13,7 @@
 **Objetivo:** Rodar o projeto local com uma página funcional e capturar áudio via navegador.
 
 ### Tarefas:
-- [ ] Setup do projeto (React + Vite + Tailwind) – **0.5h**
+- [x] Setup do projeto (React + Vite + Tailwind) – **0.5h** -> 1h
 - [ ] Estrutura básica de layout – **0.5h**
 - [ ] Componente `DesafioPage` com desafio hardcoded – **0.5h**
 - [ ] Componente `Gravador` com Web Audio API – **1h**
@@ -21,6 +21,13 @@
 
 **Estimado:** 3h  
 **Tempo real gasto:** `___`
+
+## @log
+
+```
+- [19-04-2025 1:28] Inicio Real do projeto com o setup da stack, fiz varios testes com o NeoVim mas senti que não seria uma boa ideia para o projeto então mantive o visual studio code que já estou familiarizado. Acabei usando até mais de uma hora nos testes mas para manter realista vou deixar logado apenas o utilizado para o setup da ferramenta final mesmo.
+```
+
 
 ---
 
